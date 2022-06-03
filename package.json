@@ -11,7 +11,7 @@
     "@types/node": "6.0.117",
     "rxjs-compat": "6.3.2",
     "angularfire2": "5.0.0-rc.5-next",
-    "@angular/core": "5.2.11",
+    "@angular/core": "11.0.5",
     "@angular/http": "5.2.11",
     "@angular/forms": "5.2.11",
     "@types/jasmine": "2.8.8",
